@@ -1,0 +1,60 @@
+# ========================
+# Dependency directories
+# ========================
+node_modules/
+jspm_packages/
+
+# ========================
+# Environment Variables (CRITICAL)
+# ========================
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.pem
+
+# ========================
+# Build Outputs (TypeScript)
+# ========================
+dist/
+build/
+out/
+.tsbuildinfo
+
+# ========================
+# Logs
+# ========================
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ========================
+# Testing & Coverage
+# ========================
+coverage/
+.nyc_output/
+
+# ========================
+# Caches
+# ========================
+.npm
+.eslintcache
+.stylelintcache
+.node_repl_history
+
+# ========================
+# OS & Editor Files
+# ========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
