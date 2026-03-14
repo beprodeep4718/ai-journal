@@ -2,7 +2,7 @@
 
 ## Overview
 
-![UI Screenshot](docs/ui.png)
+![UI Screenshot](docs/UI.png)
 
 This project is an AI-assisted journaling platform built for ArvyaX immersive nature sessions.
 After completing a nature ambience session (forest, ocean, or mountain), users can write journal entries that are analyzed using a Large Language Model (LLM) to extract emotions, summaries, and keywords.
